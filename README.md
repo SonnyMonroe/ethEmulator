@@ -1,6 +1,10 @@
-# Eth.id Retro Games Emulator
+# Eth.id Retro Game Emulator
 
-This project is a simple retro games emulator that allows you to play classic games from various consoles, including GameBoy, N64, Play Station and Classic Arcade Games. Right Inside of your eth.id Profile.
+This project is a simple retro game emulator that allows you to play classic games from various consoles, including GameBoy, N64, Play Station and Classic Arcade Games. Right Inside of your eth.id Profile.
+
+The Eth.id Retro Game Emulator project is a perfect example of how eth.id makes it simple to add unique and engaging functionality to your profile. By leveraging iFrames, this project seamlessly integrates classic retro games into your eth.id profile, creating a fun and engaging experience for users.
+
+With eth.id's user-friendly platform, adding this kind of functionality is simple and intuitive, allowing even those with limited coding experience to create exciting and innovative projects. I hope this project inspires others to explore the possibilities of eth.id and to create their own unique and engaging projects that showcase the power of web technologies.
 
 ## How to Use
 
@@ -16,7 +20,7 @@ If you want to add your own games to the emulator, simply find the embed code fo
 
 ## Motivation For Eth.id Retro Game Emulator
 
-The Eth.id Retro Games Emulator project was born out of a desire to create something unique and innovative that could be integrated into the eth.id platform. As a fan of retro gaming, the idea of being able to play classic games directly from my eth.id profile was very appealing. I was also excited by the possibilities that using iFrames could bring to the project, as it allowed for seamless integration of different web technologies.
+The Eth.id Retro Emulator project was born out of a desire to create something unique and innovative that could be integrated into the eth.id platform. As a fan of retro gaming, the idea of being able to play classic games directly from my eth.id profile was very appealing. I was also excited by the possibilities that using iFrames could bring to the project, as it allowed for seamless integration of different web technologies.
 
 My goal for this project was to create a fun and engaging experience for eth.id users while also showcasing the potential of iFrames and how they can be used to enhance the functionality of web applications. By providing a simple and easy-to-use retro games emulator, I hope to inspire others to think outside the box and explore all of the different things that can be done with iFrames on their Eth.id Profiles.
 

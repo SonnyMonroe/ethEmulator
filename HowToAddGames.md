@@ -1,4 +1,4 @@
-## How to add your favorite retro games to the eth.id emulator:
+## How to add your favorite retro games to the eth.id retro game emulator:
 
 1. Find the embed code for your favorite retro game. You can find embed codes on the [Retro Games CC](https://www.retrogames.cc/) website, which this emulator is inspired by.
 
