@@ -1,3 +1,22 @@
-.btn-group {
-  background-color: aqua;
+.dropdown-menu {
+  font-style: bolder;
+  /* background-color: cadetblue; */
 }
+
+.dropdown-menu {
+  display: none;
+}
+
+.dropdown-iten {
+  display: none;
+}
+
+body {
+  height: auto;
+}
+
+/* 
+.btn-wrapper {
+  width: 30%;
+  margin: 0 auto;
+} */
